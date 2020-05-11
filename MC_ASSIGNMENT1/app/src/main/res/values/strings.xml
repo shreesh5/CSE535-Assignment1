@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MC_ASSIGNMENT1</string>
+    <string-array name="signs">
+        <item>Buy</item>
+        <item>House</item>
+        <item>Fun</item>
+        <item>Hope</item>
+        <item>Arrive</item>
+        <item>Really</item>
+        <item>Read</item>
+        <item>Lip</item>
+        <item>Mouth</item>
+        <item>Some</item>
+        <item>Communicate</item>
+        <item>Write</item>
+        <item>Create</item>
+        <item>Pretend</item>
+        <item>Sister</item>
+        <item>Man</item>
+        <item>One</item>
+        <item>Drive</item>
+        <item>Perfect</item>
+        <item>Mother</item>
+    </string-array>
+    <string-array name="names">
+        <item>NAYAK</item>
+        <item>VUNDAVALLI</item>
+        <item>TOURANI</item>
+        <item>DAS</item>
+    </string-array>
+</resources>
