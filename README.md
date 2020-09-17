@@ -3,7 +3,7 @@
 To run the code:  
 
 1. Open the project in Android Studio  
-2. Connect a mobile phone to the computer and build the run the app on the phone  
+2. Connect a mobile phone to the computer and build the app on the phone  
 
 In the app:  
 
